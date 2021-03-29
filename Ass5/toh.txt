@@ -1,0 +1,4 @@
+Push disk 4 to Stack A
+Push disk 3 to Stack A
+Push disk 2 to Stack A
+Push disk 1 to Stack A
